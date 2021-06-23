@@ -1,0 +1,30 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.travelmain{
+    border: 2px solid orange;
+    border-left: 0px;
+    border-right: 0px;
+    float: none;
+    
+    
+}
+.travelmain img{
+    width: 100%;
+    
+    
+}
